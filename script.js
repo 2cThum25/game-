@@ -8,3 +8,5 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
+
+"GuilhermeFidelis-2c-07/10/24"
